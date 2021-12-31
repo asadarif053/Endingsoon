@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <endingsoon_config>
+            <general>
+                <enable>1</enable>
+                <qty_threshold>10</qty_threshold>
+                <threshold_msg>Ending soon!</threshold_msg>
+                <delivery_msg>Delivery in 5 working days!</delivery_msg>
+            </general>
+        </endingsoon_config>
+    </default>
+</config>
